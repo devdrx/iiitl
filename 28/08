@@ -1,0 +1,39 @@
+System Programming and Scripting:
+introduction of system:
+  what is process, program ,diff betn them, what is algorithm, softwares, system softwares, application softwares
+  what are the languages, their types, low and high. machine.
+  how computer works, how languages are developed
+  why languages are required, how to develop a software.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+what is computational thinking?
+  it's a probem solving approach that involves breaking down complex problems into smaller more maneageable parts in order to 
+  devise effective solutions that can be executed by a computer or human.
+
+  converting thought exercise into the solution 
+
+  decomposition
+  breaking down a problem into smaller more maneageable components or steps, this makes the problem easier to understand or solve
+  putting the solutions of sub solutions together gives a solution to the original, complex problem
+  
+  pattern recognition
+    identifying common patterns or similarities within different parts of a solution
+    helps in recognizing rexurring themes and simplifies the development of general solutions
+    makes problems easier to solve since the same solution can be used for each occurence of the pattern
+  
+  abstraction
+    we determine what characteristics of the problem are important and filter out from those who are not
+    use these to create a representation of what we are trying to solve
+    it allows you to work with simplified models of a problem, which can lead to more efficient and elegant solutions
+    *eg: data required for student registration*
+
+  algorithm (designing)
+    approaching problems in a step by step systematic manner that allows for the efficient execution of algorithms
+    identifies what is to be done (the instructions) and the order in which they should be done
+    can be described in english, as a flowchart or by writing pseudocode
+
+
+
+  PROBLEM : FIND MAX
+  find the maximum value among a list of values
+
+  draw a flowchart for finding the smallest two values in the collection
